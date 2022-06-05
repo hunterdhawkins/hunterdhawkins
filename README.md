@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hunters's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterdhawkins&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterdhawkins)](https://github.com/hunterdhawkins/github-readme-stats)
 
 
 
