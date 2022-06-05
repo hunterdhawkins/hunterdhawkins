@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterdhawkins)](https://github.com/hunterdhawkins/github-readme-stats)
-
 
 
 <!--
