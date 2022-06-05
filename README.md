@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Hunters's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterdhawkins&show_icons=true&theme=radical)
+
+
+
 <!--
 **hunterdhawkins/hunterdhawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
