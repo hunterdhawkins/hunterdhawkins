@@ -2,6 +2,8 @@
 
 My name is Hunter Hawkins. I am a graduate student at the University of Idaho CDA, where I study intelligent industrial robotics and smart cities. I also am a control system integrator at wapiti consulting where my speciality is integrating low level PLC controls with high level python.
 
+ 🌱 I’m currently learning the Python Django framework to build interactive websites for the Department of Energy
+
 <!--
 **hunterdhawkins/hunterdhawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
