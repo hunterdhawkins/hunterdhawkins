@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Hunter Hawkins. I am a graduate student at the University of Idaho CDA, where I study intelligent industrial robotics and smart cities. I also am a control system integrator at wapiti consulting where my speciality is integrating low level PLC controls with high level python.
+- 🌱 At school I’m a graduate researcher focusing on the development of smart cities, intelligent industrial robots and the implementation and security of critical infastructure.
 
- 🌱 At work I’m currently learning the Python Django web development framework, basic networking, and many other technical skills including power delivery/ protection and automation
+ - 🔭 At work I’m currently working with the Python Django web development framework to develop high level interfaces for low level critical infastructure systems. Some skills im learning include, web development, basic networking, and many other technical skills including power delivery/ protection and automation. These are being used accross the nation at Kootenai Water, Moteray One Water, Panelview RV park, Post Falls Wastewater and many others.
 
 <!--
 **hunterdhawkins/hunterdhawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
