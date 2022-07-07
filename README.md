@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github, where I store various personal and school repositories. Currently during my freetime where I am not programming, I am in the process of developing this readme along with cleaning up my respository structure.
+Welcome to my github, where I store various personal, work and school repositories. Currently during my freetime when I am not programming, I am in the process of developing this readme along with cleaning up my respository structure.
 
 - 🌱 At school I’m a graduate researcher focusing on the development of smart cities, intelligent industrial robots and the implementation and security of critical infastructure.
 
