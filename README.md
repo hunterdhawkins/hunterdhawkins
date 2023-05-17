@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-Welcome to my github, where I store various personal, work and school repositories. Currently during my freetime when I am not in school, at work, programming on the side, or pursuing hobbies, I am in the process of developing this readme along with cleaning up my respository structure. I currently am working at Wapiti-Consulting and the University of Idaho CDA where I am a graduate researcher and student.
+My name is Hunter Hawkins and I am a activate developer that has a passion for all things programming/ controls related. As it currently stands I am a PhD student at the University of Idaho CDA where I study under Dr. John Shovic. I have two bachelors degrees in mathematics and computer science, along with a recent masters degree in computer science. For work I am employeed at an electrical engineering consulting firm where I do a large amount of software development with some hardware for SCADA systems dealing with water.
 
-- 🌱 At school I’m working towards my PhD in computer science with an emphasis in robotics. I am a founding member of the Center for Intelligent Industrial Robotics (CI2R) at the University of Idaho CDA. Currently I have a masters degree in computer sciece, a bachelors degree in computer science and a bachelors degree in computational mathematics.
-
- - 🔭 For work I am currently employed at Wapiti Consulting, an electrical engineering consuting firm, where I work directly under a licensed professional engineer. Current at work I’m working with the Python Django web development framework to develop high level interfaces for low level critical infastructure systems. These system I develop, which integrate with SCADA systems, are vital in providing a much needed revamp to solve modern day complexities in automation. Some skills im learning include, web development, basic networking, and many other technical skills including power delivery/ protection and automation.
- 
 - 📫 You can learn more about myself at my personal website www.hunterdhawkins.com
 
 <!--
