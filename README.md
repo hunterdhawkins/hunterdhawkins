@@ -1,9 +1,3 @@
-### Hi there 👋
-
-My name is Hunter Hawkins and I am a activate developer that has a passion for all things programming/ controls related. As it currently stands I am a PhD student at the University of Idaho CDA where I study under Dr. John Shovic. I have two bachelors degrees in mathematics and computer science, along with a recent masters degree in computer science. For work I am employeed at an electrical engineering consulting firm where I do a large amount of software development with some hardware for SCADA systems dealing with water.
-
-- 📫 You can learn more about myself at my personal website www.hunterdhawkins.com
-
 <!--
 **hunterdhawkins/hunterdhawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
